@@ -1,2 +1,0 @@
-# kezzy-s-project
-site
